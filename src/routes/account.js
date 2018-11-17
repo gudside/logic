@@ -15,6 +15,7 @@ import { Router } from 'express';
 const router = new Router();
 
 // External login providers. Also see src/passport.js.
+
 const loginProviders = [
   {
     // https://developers.facebook.com/docs/facebook-login/permissions/
