@@ -1,2 +1,1 @@
-# logic
-Business Logic Layer
+# Gud Side APIs initial prototype
